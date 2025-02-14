@@ -29,7 +29,7 @@ The James-Stein estimator demonstrated lower MSE compared to MLE, supporting its
    git clone https://github.com/GioviManto/20592_Stein-Estimator-NBA.git
 
 
-Open James_Stein_Estimator_NBA_Analysis.ipynb in Jupyter Notebook and run the cells to reproduce the analysis.
+Open `James_Stein_Estimator_NBA_Analysis.ipynb` in Jupyter Notebook and run the cells to reproduce the analysis.
 
 
 ## References
